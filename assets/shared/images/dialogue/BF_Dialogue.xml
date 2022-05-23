@@ -9,7 +9,7 @@
 	<SubTexture name="BF CONFUSED LOOP0000" x="810" y="4" width="400" height="421" pivotX="-69.3" pivotY="-46.6"/>
 	<SubTexture name="BF CONFUSED LOOP0001" x="810" y="4" width="400" height="421"/>
 	<SubTexture name="BF CONFUSED LOOP0002" x="1214" y="4" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
-	<SubTexture name="BF CONFUSED LOOP0003" x="1214" y="4" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="BF CONFUSED LOOP0003" x="1264" y="4" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
 	<SubTexture name="BF CONFUSED LOOP0004" x="1613" y="4" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
 	<SubTexture name="BF CONFUSED LOOP0005" x="1613" y="4" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
 	<SubTexture name="BF EXCITED0000" x="2013" y="4" width="414" height="412" pivotX="-60.5" pivotY="-55.1"/>
